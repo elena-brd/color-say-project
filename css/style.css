@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin: 7rem auto;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 3rem;
+}
